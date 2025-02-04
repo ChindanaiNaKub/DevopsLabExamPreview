@@ -4,12 +4,6 @@
 
 `git init -b main` - create git repo
 
-`echo "This is a new file." > newfile.txt` - create newfile.txt with content
-
-`git add filename` or `git add .` ( add all)
-
-`git commit -m "Initial commit"`
-
 2. Create the repository on the GitHub
 
 `assume we know`
@@ -18,11 +12,17 @@
 
 `cd path/to/your/repository`
 
-`ข้อ 1`
+`echo "This is a new file." > newfile.txt` - create newfile.txt with content
+
+`git add filename` or `git add .` ( add all)
+
+`git commit -m "Initial commit"`
 
 `git remote add origin https://github.com/username/repo-name.git` - add remote to your local
 
-`git push origin main` - push to remote ( github)
+`git fetch origin` - fetch the remote changes
+
+`git push -u origin main` - push to remote ( github)
 
 4. Create a new branch.
 
