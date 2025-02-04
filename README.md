@@ -22,6 +22,8 @@
 
 `git fetch origin` - fetch the remote changes
 
+`git pull origin main --rebase` - pull changes
+
 `git push -u origin main` - push to remote ( github)
 
 4. Create a new branch.
