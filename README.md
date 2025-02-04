@@ -2,7 +2,7 @@
 
 1. Create the repository on your own computer
 
-`git init` - create git repo
+`git init -b main` - create git repo
 
 `echo "This is a new file." > newfile.txt` - create newfile.txt with content
 
