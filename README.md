@@ -62,7 +62,17 @@
 
 `git rebase -i HEAD~5`
 
+`กด i เป็น insert mode`
+
 `Replace "pick" with "reword"`
+
+`กด :wq`
+
+`เปลื่ยน commit message`
+
+`:wq เสร็จ`
+
+`เช็คด้วย git log`
 
 11. Create a new project in GitHub and add a new column named “design”
 
