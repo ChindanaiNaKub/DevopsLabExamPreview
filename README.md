@@ -40,15 +40,19 @@
 
 6. Create an issue, and then convert it to a task in a project
 
-`do it yourself`
+![alt text](image.png)
+
+`สร้าง issue -> ไป project (blank) -> ทำแบบในรูป`
 
 7. Create the task and assign it to yourself
 
-`do it yourself`
+![alt text](image-1.png)
 
 8. Create a tag todo to the issue
 
-`look it up`
+![alt text](image-2.png)
+
+`Todo ตัวเขียวๆ ใน status`
 
 9. Change the commit message in the previous commit
 
@@ -62,7 +66,9 @@
 
 11. Create a new project in GitHub and add a new column named “design”
 
-`do it yourself`
+![alt text](image-3.png)
+
+`กดติ้กถูกแล้วสร้าง Design`
 
 12. Move the cursor to /var folder and return to the home folder
 
